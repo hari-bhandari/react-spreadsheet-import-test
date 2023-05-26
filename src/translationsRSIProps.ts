@@ -10,7 +10,7 @@ export const translations = {
       title: "Upload .xlsx, .xls or .csv file",
       errorToastDescription: "upload rejected",
       activeDropzoneTitle: "Drop file here...",
-      buttonTitle: "Select file",
+      buttonTitle: "Please select a file",
       loadingTitle: "Processing...",
     },
     selectSheet: {

@@ -12,7 +12,7 @@ export const defaultTheme = themeOverrides
 export const defaultRSIProps: Partial<RsiProps<any>> = {
   autoMapHeaders: true,
   allowInvalidSubmit: true,
-  autoMapDistance: 2,
+  autoMapDistance: 3,
   translations: translations,
   uploadStepHook: async (value) => value,
   selectHeaderStepHook: async (headerValues, data) => ({ headerValues, data }),

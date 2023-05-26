@@ -70,6 +70,9 @@ const MenuPortal = (props: PortalProps) => {
   )
 }
 
-export const customComponents = {
-  MenuPortal,
+interface CustomComponents {
+  MenuPortal: React.FunctionComponent<PortalProps>;
 }
+export const customComponents: CustomComponents = {
+  MenuPortal,
+};

@@ -68,6 +68,8 @@ export const ColumnGrid = <T extends string>({
         onContinue={onContinue}
         title={translations.matchColumnsStep.nextButtonTitle}
       />
+
+
     </>
   )
 }

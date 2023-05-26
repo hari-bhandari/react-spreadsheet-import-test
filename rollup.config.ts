@@ -12,6 +12,10 @@ export default {
       format: "esm",
       dir: "./dist",
     },
+    {
+      format: "es6",
+      dir: "./dist-es6",
+    }
   ],
   external: [],
   plugins: [
