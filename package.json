@@ -59,7 +59,7 @@
     "framer-motion": "^7.0.0",
     "js-levenshtein": "1.1.6",
     "lodash": "4.17.21",
-    "react-data-grid": "7.0.0-beta.13",
+    "react-data-grid": "7.0.0-beta.31",
     "react-dropzone": "14.2.3",
     "react-icons": "4.8.0",
     "uuid": "^9.0.0",
